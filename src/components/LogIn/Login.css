@@ -1,0 +1,21 @@
+.app{
+    width: 80%;
+    margin: 20px auto;
+}
+.btn{
+    height: 40px;
+    width: 180px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+}
+.form{
+    margin: 20px auto;
+}
+.input-field{
+    height: 30px;
+    width: 250px;
+    margin: 10px 0;
+}
